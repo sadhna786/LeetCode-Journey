@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/sadhna786/LeetCode-Journey/tree/master/0649-dota2-senate) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sadhna786/LeetCode-Journey/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sadhna786/LeetCode-Journey/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
