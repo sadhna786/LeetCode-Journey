@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0735-asteroid-collision](https://github.com/sadhna786/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [1293-three-consecutive-odds](https://github.com/sadhna786/LeetCode-Journey/tree/master/1293-three-consecutive-odds) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/sadhna786/LeetCode-Journey/tree/master/0649-dota2-senate) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
 | ------- |
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
