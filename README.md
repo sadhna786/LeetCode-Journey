@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/sadhna786/LeetCode-Journey/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/2470-removing-stars-from-a-string) |
+| [2645-pass-the-pillow](https://github.com/sadhna786/LeetCode-Journey/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/sadhna786/LeetCode-Journey/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/sadhna786/LeetCode-Journey/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
