@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sadhna786/LeetCode-Journey/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/sadhna786/LeetCode-Journey/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sadhna786/LeetCode-Journey/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/2470-removing-stars-from-a-string) |
@@ -118,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/sadhna786/LeetCode-Journey/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/sadhna786/LeetCode-Journey/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
