@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/sadhna786/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0735-asteroid-collision](https://github.com/sadhna786/LeetCode-Journey/tree/master/0735-asteroid-collision) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/sadhna786/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
 ## Sorting
