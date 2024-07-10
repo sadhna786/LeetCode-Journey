@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sadhna786/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [1293-three-consecutive-odds](https://github.com/sadhna786/LeetCode-Journey/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/sadhna786/LeetCode-Journey/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/sadhna786/LeetCode-Journey/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sadhna786/LeetCode-Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/sadhna786/LeetCode-Journey/tree/master/0649-dota2-senate) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/sadhna786/LeetCode-Journey/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1720-crawler-log-folder](https://github.com/sadhna786/LeetCode-Journey/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sadhna786/LeetCode-Journey/tree/master/0735-asteroid-collision) |
+| [1720-crawler-log-folder](https://github.com/sadhna786/LeetCode-Journey/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sadhna786/LeetCode-Journey/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
