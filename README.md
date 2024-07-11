@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/0434-number-of-segments-in-a-string) |
 | [0649-dota2-senate](https://github.com/sadhna786/LeetCode-Journey/tree/master/0649-dota2-senate) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sadhna786/LeetCode-Journey/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/sadhna786/LeetCode-Journey/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1720-crawler-log-folder](https://github.com/sadhna786/LeetCode-Journey/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sadhna786/LeetCode-Journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sadhna786/LeetCode-Journey/tree/master/0735-asteroid-collision) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sadhna786/LeetCode-Journey/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/sadhna786/LeetCode-Journey/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sadhna786/LeetCode-Journey/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/2470-removing-stars-from-a-string) |
