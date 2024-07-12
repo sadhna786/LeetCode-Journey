@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/sadhna786/LeetCode-Journey/tree/master/0326-power-of-three) |
 | [1033-broken-calculator](https://github.com/sadhna786/LeetCode-Journey/tree/master/1033-broken-calculator) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sadhna786/LeetCode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/sadhna786/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/sadhna786/LeetCode-Journey/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 ## Prefix Sum
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2486-most-frequent-even-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/2486-most-frequent-even-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
