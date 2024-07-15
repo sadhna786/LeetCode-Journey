@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/sadhna786/LeetCode-Journey/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/sadhna786/LeetCode-Journey/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sadhna786/LeetCode-Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 | [2486-most-frequent-even-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/2486-most-frequent-even-element) |
 | [2846-robot-collisions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2846-robot-collisions) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/sadhna786/LeetCode-Journey/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 | [2486-most-frequent-even-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/2486-most-frequent-even-element) |
 ## Matrix
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/sadhna786/LeetCode-Journey/tree/master/0904-leaf-similar-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/sadhna786/LeetCode-Journey/tree/master/0904-leaf-similar-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Math
 |  |
 | ------- |
