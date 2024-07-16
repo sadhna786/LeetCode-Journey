@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/sadhna786/LeetCode-Journey/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sadhna786/LeetCode-Journey/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sadhna786/LeetCode-Journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sadhna786/LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2470-removing-stars-from-a-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/sadhna786/LeetCode-Journey/tree/master/0904-leaf-similar-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sadhna786/LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/sadhna786/LeetCode-Journey/tree/master/0904-leaf-similar-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sadhna786/LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/sadhna786/LeetCode-Journey/tree/master/0904-leaf-similar-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sadhna786/LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Math
 |  |
