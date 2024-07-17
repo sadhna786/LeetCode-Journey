@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sadhna786/LeetCode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/sadhna786/LeetCode-Journey/tree/master/1720-crawler-log-folder) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sadhna786/LeetCode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1803-average-waiting-time](https://github.com/sadhna786/LeetCode-Journey/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sadhna786/LeetCode-Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/sadhna786/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sadhna786/LeetCode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/sadhna786/LeetCode-Journey/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sadhna786/LeetCode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2846-robot-collisions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
