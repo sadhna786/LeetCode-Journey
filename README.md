@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/sadhna786/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sadhna786/LeetCode-Journey/tree/master/0078-subsets) |
+| [0283-move-zeroes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/sadhna786/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sadhna786/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/sadhna786/LeetCode-Journey/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sadhna786/LeetCode-Journey/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
