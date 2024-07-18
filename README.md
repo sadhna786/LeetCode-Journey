@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 | [2486-most-frequent-even-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/2486-most-frequent-even-element) |
+| [2836-neither-minimum-nor-maximum](https://github.com/sadhna786/LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2846-robot-collisions) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/sadhna786/LeetCode-Journey/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 ## Hash Table
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/sadhna786/LeetCode-Journey/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sadhna786/LeetCode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2836-neither-minimum-nor-maximum](https://github.com/sadhna786/LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
