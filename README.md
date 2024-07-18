@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sadhna786/LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadhna786/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/sadhna786/LeetCode-Journey/tree/master/0726-number-of-atoms) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sadhna786/LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadhna786/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sadhna786/LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadhna786/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sadhna786/LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadhna786/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
