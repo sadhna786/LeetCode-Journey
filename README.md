@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sadhna786/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sadhna786/LeetCode-Journey/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadhna786/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/sadhna786/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0649-dota2-senate](https://github.com/sadhna786/LeetCode-Journey/tree/master/0649-dota2-senate) |
 | [1033-broken-calculator](https://github.com/sadhna786/LeetCode-Journey/tree/master/1033-broken-calculator) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadhna786/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/sadhna786/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/sadhna786/LeetCode-Journey/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 ## Prefix Sum
