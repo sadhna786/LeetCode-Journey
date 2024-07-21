@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2472-build-a-matrix-with-conditions) |
 | [2486-most-frequent-even-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/2486-most-frequent-even-element) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/sadhna786/LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2846-robot-collisions) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/sadhna786/LeetCode-Journey/tree/master/2867-ways-to-split-array-into-good-subarrays) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 | [2486-most-frequent-even-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/2486-most-frequent-even-element) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sadhna786/LeetCode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1642-water-bottles](https://github.com/sadhna786/LeetCode-Journey/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sadhna786/LeetCode-Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2645-pass-the-pillow](https://github.com/sadhna786/LeetCode-Journey/tree/master/2645-pass-the-pillow) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/sadhna786/LeetCode-Journey/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 ## Dynamic Programming
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2472-build-a-matrix-with-conditions) |
+## Number Theory
+|  |
+| ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
