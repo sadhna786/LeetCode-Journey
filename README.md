@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sadhna786/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/sadhna786/LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sadhna786/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sadhna786/LeetCode-Journey/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadhna786/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sadhna786/LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadhna786/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sadhna786/LeetCode-Journey/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
