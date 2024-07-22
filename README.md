@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2472-build-a-matrix-with-conditions) |
 | [2486-most-frequent-even-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/2486-most-frequent-even-element) |
+| [2502-sort-the-people](https://github.com/sadhna786/LeetCode-Journey/tree/master/2502-sort-the-people) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/sadhna786/LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2846-robot-collisions) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 | [2486-most-frequent-even-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/2486-most-frequent-even-element) |
+| [2502-sort-the-people](https://github.com/sadhna786/LeetCode-Journey/tree/master/2502-sort-the-people) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Matrix
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sadhna786/LeetCode-Journey/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sadhna786/LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2470-removing-stars-from-a-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/2470-removing-stars-from-a-string) |
+| [2502-sort-the-people](https://github.com/sadhna786/LeetCode-Journey/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/sadhna786/LeetCode-Journey/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sadhna786/LeetCode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2502-sort-the-people](https://github.com/sadhna786/LeetCode-Journey/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/sadhna786/LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2846-robot-collisions) |
 ## Tree
