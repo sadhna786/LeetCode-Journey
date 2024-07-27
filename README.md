@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/sadhna786/LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2846-robot-collisions) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/sadhna786/LeetCode-Journey/tree/master/2867-ways-to-split-array-into-good-subarrays) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/sadhna786/LeetCode-Journey/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sadhna786/LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2470-removing-stars-from-a-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/sadhna786/LeetCode-Journey/tree/master/2502-sort-the-people) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/sadhna786/LeetCode-Journey/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sadhna786/LeetCode-Journey/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/sadhna786/LeetCode-Journey/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -326,4 +329,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sadhna786/LeetCode-Journey/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/sadhna786/LeetCode-Journey/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
