@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sadhna786/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0948-sort-an-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadhna786/LeetCode-Journey/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1196-filling-bookcase-shelves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sadhna786/LeetCode-Journey/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/sadhna786/LeetCode-Journey/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sadhna786/LeetCode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadhna786/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/sadhna786/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
+| [1196-filling-bookcase-shelves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sadhna786/LeetCode-Journey/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/sadhna786/LeetCode-Journey/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 ## Prefix Sum
