@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sadhna786/LeetCode-Journey/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/sadhna786/LeetCode-Journey/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sadhna786/LeetCode-Journey/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sadhna786/LeetCode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sadhna786/LeetCode-Journey/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/sadhna786/LeetCode-Journey/tree/master/1720-crawler-log-folder) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sadhna786/LeetCode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sadhna786/LeetCode-Journey/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sadhna786/LeetCode-Journey/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/sadhna786/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sadhna786/LeetCode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sadhna786/LeetCode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sorting
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sadhna786/LeetCode-Journey/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sadhna786/LeetCode-Journey/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/sadhna786/LeetCode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sadhna786/LeetCode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sadhna786/LeetCode-Journey/tree/master/1741-sort-array-by-increasing-frequency) |
