@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/sadhna786/LeetCode-Journey/tree/master/2502-sort-the-people) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/sadhna786/LeetCode-Journey/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/sadhna786/LeetCode-Journey/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sadhna786/LeetCode-Journey/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sadhna786/LeetCode-Journey/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sadhna786/LeetCode-Journey/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/sadhna786/LeetCode-Journey/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/sadhna786/LeetCode-Journey/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2846-robot-collisions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/2486-most-frequent-even-element) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Memoization
 |  |
 | ------- |
