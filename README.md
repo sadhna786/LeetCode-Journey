@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/sadhna786/LeetCode-Journey/tree/master/0165-compare-version-numbers) |
+| [0273-integer-to-english-words](https://github.com/sadhna786/LeetCode-Journey/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/0434-number-of-segments-in-a-string) |
 | [0649-dota2-senate](https://github.com/sadhna786/LeetCode-Journey/tree/master/0649-dota2-senate) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sadhna786/LeetCode-Journey/tree/master/0206-reverse-linked-list) |
+| [0273-integer-to-english-words](https://github.com/sadhna786/LeetCode-Journey/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/sadhna786/LeetCode-Journey/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/sadhna786/LeetCode-Journey/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sadhna786/LeetCode-Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [0273-integer-to-english-words](https://github.com/sadhna786/LeetCode-Journey/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/sadhna786/LeetCode-Journey/tree/master/0326-power-of-three) |
 | [1033-broken-calculator](https://github.com/sadhna786/LeetCode-Journey/tree/master/1033-broken-calculator) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sadhna786/LeetCode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
