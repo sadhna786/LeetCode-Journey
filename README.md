@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sadhna786/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/sadhna786/LeetCode-Journey/tree/master/0735-asteroid-collision) |
+| [0921-spiral-matrix-iii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadhna786/LeetCode-Journey/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1196-filling-bookcase-shelves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1196-filling-bookcase-shelves) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sadhna786/LeetCode-Journey/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sadhna786/LeetCode-Journey/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sadhna786/LeetCode-Journey/tree/master/0735-asteroid-collision) |
+| [0921-spiral-matrix-iii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/sadhna786/LeetCode-Journey/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/sadhna786/LeetCode-Journey/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sadhna786/LeetCode-Journey/tree/master/1951-find-the-winner-of-the-circular-game) |
