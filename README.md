@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sadhna786/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadhna786/LeetCode-Journey/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1196-filling-bookcase-shelves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sadhna786/LeetCode-Journey/tree/master/1207-delete-nodes-and-return-forest) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sadhna786/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/sadhna786/LeetCode-Journey/tree/master/0726-number-of-atoms) |
+| [0999-regions-cut-by-slashes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sadhna786/LeetCode-Journey/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sadhna786/LeetCode-Journey/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sadhna786/LeetCode-Journey/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sadhna786/LeetCode-Journey/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sadhna786/LeetCode-Journey/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/sadhna786/LeetCode-Journey/tree/master/0904-leaf-similar-trees) |
+| [0999-regions-cut-by-slashes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0999-regions-cut-by-slashes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sadhna786/LeetCode-Journey/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0999-regions-cut-by-slashes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sadhna786/LeetCode-Journey/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Tree
@@ -375,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
