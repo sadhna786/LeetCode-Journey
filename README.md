@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sadhna786/LeetCode-Journey/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sadhna786/LeetCode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sadhna786/LeetCode-Journey/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sadhna786/LeetCode-Journey/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sadhna786/LeetCode-Journey/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/sadhna786/LeetCode-Journey/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sadhna786/LeetCode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sadhna786/LeetCode-Journey/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sadhna786/LeetCode-Journey/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sadhna786/LeetCode-Journey/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2428-equal-row-and-column-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sadhna786/LeetCode-Journey/tree/master/2472-build-a-matrix-with-conditions) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/sadhna786/LeetCode-Journey/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sadhna786/LeetCode-Journey/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sadhna786/LeetCode-Journey/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0999-regions-cut-by-slashes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/sadhna786/LeetCode-Journey/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sadhna786/LeetCode-Journey/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sadhna786/LeetCode-Journey/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Tree
 |  |
@@ -387,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0999-regions-cut-by-slashes) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sadhna786/LeetCode-Journey/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
