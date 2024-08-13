@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sadhna786/LeetCode-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sadhna786/LeetCode-Journey/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/sadhna786/LeetCode-Journey/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/sadhna786/LeetCode-Journey/tree/master/0326-power-of-three) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sadhna786/LeetCode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/sadhna786/LeetCode-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sadhna786/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sadhna786/LeetCode-Journey/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sadhna786/LeetCode-Journey/tree/master/0328-odd-even-linked-list) |
