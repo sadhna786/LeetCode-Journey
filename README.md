@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sadhna786/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sadhna786/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sadhna786/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sadhna786/LeetCode-Journey/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sadhna786/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sadhna786/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sadhna786/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sadhna786/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/sadhna786/LeetCode-Journey/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0948-sort-an-array) |
