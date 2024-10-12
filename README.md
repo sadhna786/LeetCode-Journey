@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sadhna786/LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/sadhna786/LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/sadhna786/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/sadhna786/LeetCode-Journey/tree/master/0273-integer-to-english-words) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sadhna786/LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sadhna786/LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sadhna786/LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sadhna786/LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
