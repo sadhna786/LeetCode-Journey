@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sadhna786/LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sadhna786/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sadhna786/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sadhna786/LeetCode-Journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sadhna786/LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/sadhna786/LeetCode-Journey/tree/master/0410-split-array-largest-sum) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sadhna786/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sadhna786/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sadhna786/LeetCode-Journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/sadhna786/LeetCode-Journey/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0948-sort-an-array) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sadhna786/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/sadhna786/LeetCode-Journey/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/sadhna786/LeetCode-Journey/tree/master/0326-power-of-three) |
 | [1033-broken-calculator](https://github.com/sadhna786/LeetCode-Journey/tree/master/1033-broken-calculator) |
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sadhna786/LeetCode-Journey/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Graph
 |  |
