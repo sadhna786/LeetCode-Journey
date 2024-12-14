@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sadhna786/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/sadhna786/LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sadhna786/LeetCode-Journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sadhna786/LeetCode-Journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sadhna786/LeetCode-Journey/tree/master/0078-subsets) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sadhna786/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/sadhna786/LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sadhna786/LeetCode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhna786/LeetCode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
